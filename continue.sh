@@ -5,6 +5,7 @@ do
 
     if [ $i == 4 ]
         then
+            echo "continue exec"
             continue
     fi
     echo -e $i 
