@@ -3,7 +3,7 @@ while [ $i -lt 5 ]
 do
     i=`expr $i + 1`
 
-    if [ $i == 3 ]
+    if [ $i == 4 ]
         then
             continue
     fi
